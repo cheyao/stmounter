@@ -38,3 +38,22 @@ Decided on a raspi pico form factor because why not ;p It'll be a drop-in replac
 ![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/a8aa822c855e84da45cb67c2745a2116cfdb3cf4_image.png)
 
 - 1.5h
+
+-------------------
+
+Finally found a stm32 [getting started manual](https://www.st.com/resource/en/application_note/cd00164185-getting-started-with-stm32f10xxx-hardware-development-stmicroelectronics.pdf)! This will make my like easier ;p
+
+Only 29 pages tho, how little.
+
+- 2h
+
+-------------------
+
+Okay I've opened like 4 pdfs now, in datasheet hell... Welp this is easier then my fpga though. Calculating oscillator capacitance rn.
+
+I've calculated the capacitance and continued routing:
+
+![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/dec76b14eacd9b7ff63ca8b475f83e7c250f3a60_image.png)
+
+- 1.5h
+
