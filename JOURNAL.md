@@ -57,3 +57,26 @@ I've calculated the capacitance and continued routing:
 
 - 1.5h
 
+-------------------
+
+## 25/05
+
+Okay I've finished routing the v1 of the board!
+
+![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/119a3979a1ce198a5a1e3578c5b36359293e24e3_image.png)
+
+Buuuut I think I messed up the chip selection... I need a 2.5$ chip for the USB programming option :(
+
+Time for v2
+
+- 2.5h
+
+-------------------
+
+Started drawing the schematic for the STM32F373CCT, also reorganized the top part of the PCB.
+
+![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/314d028570596e333a9e7ee3eeb3c6cca9fc5f1f_image.png)
+
+- 1.5h
+
+-------------------
