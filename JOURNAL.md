@@ -77,6 +77,12 @@ Started drawing the schematic for the STM32F373CCT, also reorganized the top par
 
 ![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/314d028570596e333a9e7ee3eeb3c6cca9fc5f1f_image.png)
 
-- 1.5h
+- 1h
 
 -------------------
+
+Okay I spent the whole afternoon on this, finished rev 2!!!
+
+![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/97cce543af2ca7ceb31d24cd7f10e65cd9ff5115_image.png)
+
+- 2.5h
