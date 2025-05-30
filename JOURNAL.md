@@ -7,7 +7,7 @@ created_at: "2025-05-23"
 
 # Stmounter
 
-- Total time spent: 14h
+- Total time spent: 14.5h
 
 Damn I can't think of a better name >.<
 
@@ -88,4 +88,10 @@ Okay I spent the whole afternoon on this, finished rev 2!!!
 ![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/97cce543af2ca7ceb31d24cd7f10e65cd9ff5115_image.png)
 
 - 2.5h
+
+-------------------
+
+Updated readme... Ugh
+
+- 0.5h
 
