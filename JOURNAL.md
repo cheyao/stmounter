@@ -101,3 +101,14 @@ Aaaand some more
 
 - 0.5h
 
+--------------------------
+
+# 09/01
+
+Got my boards, and finally got time to ship them!
+
+![](https://hc-cdn.hel1.your-objectstorage.com/s/v3/102e8c6acf6bc63f8542f43be04d080d061128c6_image.png)
+
+The usage is pretty simple: Plug in a usb c cable and just press the boot & reset button, and program the stm32 chips as you would normally!
+
+Happy hacking :)
